@@ -9,6 +9,7 @@ My class Restaurant has 3 derived classses
 As well as my parent class Restaurant, human, menu and owner, have their own derived class with different meaning and methods.
 
 - Human has:
+
 1.Customer.
 
 2.Hostess.
@@ -20,6 +21,7 @@ As well as my parent class Restaurant, human, menu and owner, have their own der
 5.Chef
 
 - Menu has:
+
 1.base_menu (which includes all the food and soft drinks in the restaurant)
 
 2.hard_menu (this menu provides the customer with alcohol drinks) 
